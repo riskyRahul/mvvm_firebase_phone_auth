@@ -1,0 +1,27 @@
+const login_title = "ONTAP";
+const login_desc = "Please enter your number below";
+const enter_nub_txt_fild_lable = "Enter your number";
+const send_otp = "Send OTP";
+const error_msg = 'Cant authentiate you Right now, Try again later!';
+const try_again_later =
+    "We have blocked all requests from this device due to unusual activity. Try again later.";
+const please_wait = "Please wait as you have used limited number request";
+const country_selected = "New Country selected: ";
+const sesson_exp = "Session expired, please resend OTP!";
+const wrong_otp = "You have entered wrong OTP!";
+const otp_title = 'Verify OTP';
+const otp_desc = "Please enter code sent to your number";
+const otp_txt_field_lable = "Enter 6 digit Code";
+const otp_btn_lable = "Verify Code";
+const error_occured = 'Error Occured';
+const ok = "OK!";
+const yes = "Yes";
+const no = "NO";
+const log_out = 'Log Out';
+const home = "Home";
+const are_you_sure = "Are you sure.";
+const loaging = "Loading..";
+const s_w_w = 'Something went wrong..';
+const welcome_home = "Welcome to Home page \n";
+const phone_no = "Phone Number:-\t";
+const user_id = "User Id:-\t";
